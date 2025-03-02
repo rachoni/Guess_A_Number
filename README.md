@@ -1,5 +1,7 @@
 # Guess A Number Game
 
+![Guess_A_Number Screenshot](screenshot.png)
+
 ## Overview
 The **Guess A Number Game** is a simple Python-based guessing game where the player tries to guess a randomly generated number between 1 and 100. The game provides feedback to help guide the player’s guesses, indicating if the guess is too high or too low. The game ends when the player correctly guesses the number.
 
